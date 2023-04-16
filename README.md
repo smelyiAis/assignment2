@@ -1,5 +1,5 @@
-### _Assignment-2_
-### **_Omarbek Aisultan_** (*SE-2202*) 
+### Assignment 2
+### **Omarbek Aisultan** (*SE-2202*) 
 
 ### MyList (Interface)
 - ```size()```- int, return length of list.
